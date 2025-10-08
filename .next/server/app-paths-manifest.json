@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/today-earnings/page": "app/today-earnings/page.js",
+  "/domain-analytics/page": "app/domain-analytics/page.js",
+  "/settings/page": "app/settings/page.js"
+}

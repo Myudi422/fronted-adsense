@@ -1,0 +1,5 @@
+{
+  "/today-earnings/page": "app/today-earnings/page.js",
+  "/domain-analytics/page": "app/domain-analytics/page.js",
+  "/page": "app/page.js"
+}
